@@ -1,0 +1,55 @@
+{
+  "@@locale": "it",
+  "appTitle": "Repkora",
+  "workouts": "Allenamenti",
+  "statistics": "Statistiche",
+  "settings": "Impostazioni",
+  "noWorkouts": "Nessun allenamento registrato. Aggiungine uno!",
+  "addWorkout": "Aggiungi allenamento",
+  "saveWorkout": "Salva allenamento",
+  "workoutName": "Nome esercizio",
+  "workoutNameHint": "es., Spinte con manubri",
+  "targetSets": "Serie obiettivo",
+  "targetReps": "Ripetizioni obiettivo",
+  "weightKg": "Peso (kg)",
+  "restSec": "Riposo (sec)",
+  "pleaseEnterName": "Inserisci un nome per l'esercizio",
+  "requiredField": "Obbligatorio",
+  "restPeriod": "Periodo di riposo ⏱️",
+  "completeSet": "Completa serie e riposa",
+  "getReady": "Preparati per la prossima serie!",
+  "setCount": "Serie {current} di {total}",
+  "@setCount": {
+    "placeholders": {
+      "current": {"type": "int"},
+      "total": {"type": "int"}
+    }
+  },
+  "sessionTitle": "Sessione: {name}",
+  "@sessionTitle": {
+    "placeholders": {
+      "name": {"type": "String"}
+    }
+  },
+  "audioAlerts": "Avvisi audio",
+  "audioAlertsSubtitle": "Riproduci suono per i timer di riposo",
+  "language": "Lingua",
+  "appVersion": "Versione app",
+  "appVersionSubtitle": "v1.1.0 - Edizione Pro Gym",
+  "weightProgress": "Progresso del peso nel tempo",
+  "noDataStats": "Nessun dato disponibile per le statistiche.",
+  "setsXreps": "{sets} Serie x {reps} Ripetizioni @ {weight} kg",
+  "@setsXreps": {
+    "placeholders": {
+      "sets": {"type": "int"},
+      "reps": {"type": "int"},
+      "weight": {"type": "double"}
+    }
+  },
+  "restDuration": "Riposo: {seconds}s",
+  "@restDuration": {
+    "placeholders": {
+      "seconds": {"type": "int"}
+    }
+  }
+}

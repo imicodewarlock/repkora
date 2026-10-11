@@ -1,0 +1,55 @@
+{
+  "@@locale": "ar",
+  "appTitle": "ريب فولت",
+  "workouts": "التمارين",
+  "statistics": "الإحصائيات",
+  "settings": "الإعدادات",
+  "noWorkouts": "لا توجد تمارين مسجلة حتى الآن. أضف تمريناً!",
+  "addWorkout": "إضافة تمرين",
+  "saveWorkout": "حفظ التمرين",
+  "workoutName": "اسم التمرين",
+  "workoutNameHint": "مثال: تجميع بالدمبل",
+  "targetSets": "المجموعات المستهدفة",
+  "targetReps": "التكرارات المستهدفة",
+  "weightKg": "الوزن (كجم)",
+  "restSec": "الراحة (ثانية)",
+  "pleaseEnterName": "يرجى إدخال اسم التمرين",
+  "requiredField": "مطلوب",
+  "restPeriod": "فترة الراحة ⏱️",
+  "completeSet": "إنهاء المجموعة والراحة",
+  "getReady": "استعد للمجموعة القادمة!",
+  "setCount": "المجموعة {current} من {total}",
+  "@setCount": {
+    "placeholders": {
+      "current": {"type": "int"},
+      "total": {"type": "int"}
+    }
+  },
+  "sessionTitle": "جلسة: {name}",
+  "@sessionTitle": {
+    "placeholders": {
+      "name": {"type": "String"}
+    }
+  },
+  "audioAlerts": "التنبيهات الصوتية",
+  "audioAlertsSubtitle": "تشغيل صوت عند بدء وانتهاء وقت الراحة",
+  "language": "اللغة",
+  "appVersion": "إصدار التطبيق",
+  "appVersionSubtitle": "v1.1.0 - النسخة الاحترافية",
+  "weightProgress": "تطور الأوزان عبر الوقت",
+  "noDataStats": "لا توجد بيانات متاحة للإحصائيات حتى الآن.",
+  "setsXreps": "{sets} مجموعات × {reps} تكرارات @ {weight} كجم",
+  "@setsXreps": {
+    "placeholders": {
+      "sets": {"type": "int"},
+      "reps": {"type": "int"},
+      "weight": {"type": "double"}
+    }
+  },
+  "restDuration": "الراحة: {seconds} ثانية",
+  "@restDuration": {
+    "placeholders": {
+      "seconds": {"type": "int"}
+    }
+  }
+}

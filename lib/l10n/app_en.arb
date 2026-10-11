@@ -1,0 +1,55 @@
+{
+  "@@locale": "en",
+  "appTitle": "Repkora",
+  "workouts": "Workouts",
+  "statistics": "Statistics",
+  "settings": "Settings",
+  "noWorkouts": "No workouts logged yet. Add one!",
+  "addWorkout": "Add Workout",
+  "saveWorkout": "Save Workout",
+  "workoutName": "Workout Name",
+  "workoutNameHint": "e.g., Dumbbell Press",
+  "targetSets": "Target Sets",
+  "targetReps": "Target Reps",
+  "weightKg": "Weight (kg)",
+  "restSec": "Rest (sec)",
+  "pleaseEnterName": "Please enter a workout name",
+  "requiredField": "Required",
+  "restPeriod": "Rest Period ⏱️",
+  "completeSet": "Complete Set & Rest",
+  "getReady": "Get ready for the next set!",
+  "setCount": "Set {current} of {total}",
+  "@setCount": {
+    "placeholders": {
+      "current": {"type": "int"},
+      "total": {"type": "int"}
+    }
+  },
+  "sessionTitle": "Session: {name}",
+  "@sessionTitle": {
+    "placeholders": {
+      "name": {"type": "String"}
+    }
+  },
+  "audioAlerts": "Audio Alerts (Beep)",
+  "audioAlertsSubtitle": "Play sound on rest timer events",
+  "language": "Language",
+  "appVersion": "App Version",
+  "appVersionSubtitle": "v1.1.0 - Pro Gym Edition",
+  "weightProgress": "Weight Progress Over Time",
+  "noDataStats": "No data available for statistics yet.",
+  "setsXreps": "{sets} Sets x {reps} Reps @ {weight} kg",
+  "@setsXreps": {
+    "placeholders": {
+      "sets": {"type": "int"},
+      "reps": {"type": "int"},
+      "weight": {"type": "double"}
+    }
+  },
+  "restDuration": "Rest: {seconds}s",
+  "@restDuration": {
+    "placeholders": {
+      "seconds": {"type": "int"}
+    }
+  }
+}

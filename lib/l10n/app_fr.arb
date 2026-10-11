@@ -1,0 +1,55 @@
+{
+  "@@locale": "fr",
+  "appTitle": "Repkora",
+  "workouts": "Entraînements",
+  "statistics": "Statistiques",
+  "settings": "Paramètres",
+  "noWorkouts": "Aucun entraînement enregistré. Ajoutez-en un!",
+  "addWorkout": "Ajouter un entraînement",
+  "saveWorkout": "Enregistrer l'entraînement",
+  "workoutName": "Nom de l'exercice",
+  "workoutNameHint": "ex: Développé haltères",
+  "targetSets": "Séries cibles",
+  "targetReps": "Répétitions cibles",
+  "weightKg": "Poids (kg)",
+  "restSec": "Repos (sec)",
+  "pleaseEnterName": "Veuillez entrer un nom d'exercice",
+  "requiredField": "Champ requis",
+  "restPeriod": "Période de repos ⏱️",
+  "completeSet": "Terminer la série et reposer",
+  "getReady": "Préparez-vous pour la série suivante!",
+  "setCount": "Série {current} sur {total}",
+  "@setCount": {
+    "placeholders": {
+      "current": {"type": "int"},
+      "total": {"type": "int"}
+    }
+  },
+  "sessionTitle": "Session: {name}",
+  "@sessionTitle": {
+    "placeholders": {
+      "name": {"type": "String"}
+    }
+  },
+  "audioAlerts": "Alertes sonores",
+  "audioAlertsSubtitle": "Jouer un son lors des chronomètres de repos",
+  "language": "Langue",
+  "appVersion": "Version de l'application",
+  "appVersionSubtitle": "v1.1.0 - Édition Pro Gym",
+  "weightProgress": "Évolution du poids au fil du temps",
+  "noDataStats": "Aucune donnée disponible pour les statistiques.",
+  "setsXreps": "{sets} Séries x {reps} Reps @ {weight} kg",
+  "@setsXreps": {
+    "placeholders": {
+      "sets": {"type": "int"},
+      "reps": {"type": "int"},
+      "weight": {"type": "double"}
+    }
+  },
+  "restDuration": "Repos: {seconds}s",
+  "@restDuration": {
+    "placeholders": {
+      "seconds": {"type": "int"}
+    }
+  }
+}
